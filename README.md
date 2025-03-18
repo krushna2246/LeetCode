@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/krushna2246/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/krushna2246/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/krushna2246/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/krushna2246/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/krushna2246/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/krushna2246/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/krushna2246/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/krushna2246/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -37,18 +39,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krushna2246/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/krushna2246/LeetCode/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/krushna2246/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/krushna2246/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krushna2246/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/krushna2246/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/krushna2246/LeetCode/tree/master/0268-missing-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/krushna2246/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/krushna2246/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/krushna2246/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

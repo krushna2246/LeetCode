@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krushna2246/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/krushna2246/LeetCode/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/krushna2246/LeetCode/tree/master/0268-missing-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/krushna2246/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/krushna2246/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/krushna2246/LeetCode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/krushna2246/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->

@@ -1,13 +1,13 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int range=nums.length;
-        int actualsum=(range*(range+1)/2);
-        int currentsum=0;
+        int range= nums.length;
+        int actualsum= (range*(range+1))/2;
+        int sum=0;
         for(int i=0;i<nums.length;i++){
-            currentsum = currentsum + nums[i];
+            sum= sum + nums[i];
+
         }
-        int ans=actualsum-currentsum;
-           return ans;
+        int ans = actualsum - sum;
+        return ans;
     }
- 
 }

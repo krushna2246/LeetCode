@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/krushna2246/LeetCode/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/krushna2246/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/krushna2246/LeetCode/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/krushna2246/LeetCode/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/krushna2246/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/krushna2246/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/krushna2246/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/krushna2246/LeetCode/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/krushna2246/LeetCode/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/krushna2246/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/krushna2246/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/krushna2246/LeetCode/tree/master/0013-roman-to-integer) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/krushna2246/LeetCode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/krushna2246/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->

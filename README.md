@@ -13,16 +13,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/krushna2246/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/krushna2246/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/krushna2246/LeetCode/tree/master/1642-water-bottles) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/krushna2246/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/krushna2246/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/krushna2246/LeetCode/tree/master/0268-missing-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/krushna2246/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/krushna2246/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/krushna2246/LeetCode/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/krushna2246/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/krushna2246/LeetCode/tree/master/1642-water-bottles) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/krushna2246/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
